@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Catalogo de Filmes (Mobile)",
+    "slug": "catalogo-filmes-expo",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
